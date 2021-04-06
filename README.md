@@ -23,7 +23,7 @@ npm start
 ```
 
 ## 🔗 Endpoints
-Você pode utilizar ferramentas como **Insomnia** ou **Postman** para realizar as requisições.
+Você pode utilizar ferramentas como **Postman** ou **Insomnia** para realizar as requisições.
 
 #### url: http://localhost:3333/
 > Method: get
